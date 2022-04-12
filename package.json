@@ -1,0 +1,23 @@
+{
+  "name": "jest01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {  
+    "type": "git",
+    "url": "git+https://github.com/elenaconst/Jest01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenaconst/Jest01/issues"
+  },
+  "homepage": "https://github.com/elenaconst/Jest01#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
